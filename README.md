@@ -8,6 +8,8 @@
 * 背景音乐切换
 * 棋盘大小切换
 
+(若要运行代码首先需要运行Gobang/data文件夹里的sql文件）
+
 ### 游戏首页
 
 ![image-20211228105216699](https://gitee.com/stormwater/img-cloud/raw/master/image-20211228105216699.png)
@@ -45,4 +47,5 @@
 * 五子棋的核心代码有参考**https://github.com/Vaczzy/SimpleGobang**
 * 文件里有些命名为gobanga是因为之前用gobang创了个项目重命名了
 * 做的还是比较粗糙，没有人机对战、下棋限时、排行榜等功能
+* 萌新一枚，不喜勿喷
 
