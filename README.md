@@ -47,5 +47,4 @@
 * 五子棋的核心代码有参考**https://github.com/Vaczzy/SimpleGobang**
 * 文件里有些命名为gobanga是因为之前用gobang创了个项目重命名了
 * 做的还是比较粗糙，没有人机对战、下棋限时、排行榜等功能
-* 萌新一枚，不喜勿喷
 
